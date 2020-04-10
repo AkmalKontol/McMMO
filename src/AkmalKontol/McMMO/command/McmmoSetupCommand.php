@@ -1,22 +1,8 @@
 <?php
 
-/*
- *
- *              _                             _        ______             _
- *     /\      | |                           | |      |  ____|           (_)
- *    /  \     | | __   _ __ ___      __ _   | |      | |__       __ _    _    _ __    _   _    ____
- *   / /\ \    | |/ /  | '_ ` _ \    / _` |  | |      |  __|     / _` |  | |  | '__|  | | | |  |_  /
- *  / ____ \   |   <   | | | | | |  | (_| |  | |      | |       | (_| |  | |  | |     | |_| |   / /
- * /_/    \_\  |_|\_\  |_| |_| |_|   \__,_|  |_|      |_|        \__,_|  |_|  |_|      \__,_|  /___|
- *
- * Discord: akmal#7191
- * GitHub: https://github.com/AkmalFairuz
- *
- */
+namespace AkmalKontol\McMMO\command;
 
-namespace AkmalFairuz\McMMO\command;
-
-use AkmalFairuz\McMMO\entity\FloatingText;
+use AkmalKontol\McMMO\entity\FloatingText;
 use pocketmine\command\CommandSender;
 use pocketmine\command\PluginCommand;
 use pocketmine\entity\Entity;

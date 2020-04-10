@@ -1,6 +1,6 @@
 <?php
 
-namespace AkmalFairuz\McMMO\formapi;
+namespace AkmalKontol\McMMO\formapi;
 
 class FormAPI {
 	

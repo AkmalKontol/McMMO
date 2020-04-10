@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace AkmalFairuz\McMMO\formapi;
+namespace AkmalKontol\McMMO\formapi;
 
 use pocketmine\Player;
 use pocketmine\form\Form as IForm;
